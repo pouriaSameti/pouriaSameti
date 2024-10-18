@@ -3,7 +3,7 @@
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1> 
 
-<p align="left">I'm an AI engineering student currently studying at Bahcesehir University. My academic journey is deeply rooted in Data Science and Computer Vision. At present, my primary focus lies in Machine Learning, Deep Learning and Math behind them.</p>
+<p align="left">I'm an AI engineering student currently studying at University of Isfahan. My academic journey is deeply rooted in Data Science and Computer Vision. At present, my primary focus lies in Machine Learning, Deep Learning and Math behind them.</p>
 
 <h4 align="center">Let's Connect!</h4>
 <p align="center">
