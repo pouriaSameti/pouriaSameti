@@ -57,28 +57,3 @@
     
 
 </p>
-
-### 🎓 Education
-
-<p>
-    <a href="https://int.bau.edu.tr/"><img alt="BAU" src="https://img.shields.io/badge/Bahcesehir%20University-white?style=for-the-badge&logo=data%3Aimage%2Fjpeg%3Bbase64%2C%2F9j%2F4AAQSkZJRgABAQAAAQABAAD%2F2wBDAAQDAwQDAwQEBAQFBQQFBwsHBwYGBw4KCggLEA4RERAOEA8SFBoWEhMYEw8QFh8XGBsbHR0dERYgIh8cIhocHRz%2F2wBDAQUFBQcGBw0HBw0cEhASHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBz%2FwAARCAAfACgDAREAAhEBAxEB%2F8QAGAAAAwEBAAAAAAAAAAAAAAAABQYIAAf%2FxAAvEAABAwMDAgIJBQAAAAAAAAABAgMFBAYRABIxEyEHUQgUFSIyQUJxgSMzUlOh%2F8QAGQEAAwEBAQAAAAAAAAAAAAAAAAUGAwQC%2F8QANBEAAQMBBQUECQUAAAAAAAAAAQADEQIEEiFBYRMUMVGBBULB4QYVMpGhorHR8BYXQ3Hi%2F9oADAMBAAIRAxEAPwC%2FtCEBu%2B8IuyIV6UlXihpJ2NtoGXH3DnDaE%2FUo44%2FJwAdb2ez12iu42PLUrF9%2Bhig11nz0Ckpv0kLtRLi9F%2B9BrrzQGFC%2F0gyGg52V%2Fb3zv8%2B2NvbVUexWLm7d6JvazHu08VMjtd%2B9vHdmI0iffr4KuLTuyLvSGalYl%2Fq06yULQoYcZcHxNrT9Kh8x%2BRkEHUo%2BxWxWaHBj%2BYjRUzD9D9F%2Bg%2FnIo3rFbIZcM01bkFIyz7NQ%2BzQsLfW1TNlbigkEkJSOTrRlsu1hsGJwxWbrgboNZyUYXTOXJ4jXDUXBItKQ%2Fbq6aXo49pRWyuLUtO9xs8LIwlSl%2FMKUO23AsGGmbK2GqOFc0k53uR5aD7ypR9x60uFyvjRFQGV3mPE%2FZNaPBvY2zb62iKBu%2B1uFR49RFIHc58umAn765fWUkug47P5r0fVdI7P%2FAIstp8In6JTs6fuXwznKWcomlOu3Al%2BakY91RQy1G7z03HDwhRytSVcgbE99xGuq0tM2tstVH2IpBzvZgc9R%2FZyXNZ3XrLWHKR7U1EZXZwnw6K04KXan4WglGWahlmtYQ%2BhuobLbiAoZAUk8HvqPdbLdZoOWGCrG6w5QKxmiGs17XOZ%2B36SyKNcvFW6mSZpVvOppEObDSodB6wbG05bUfeLfAOSB5NbJVvjmxdduTGMTJHCcRjyPRJe0q67AybQwztLsyJggHjGBkcx1SMfSJoy0WzaqS3jG31oYxjb%2FAA8u3208%2FSlcztvh5qQ%2FcGjhu3zf5T3AW9S3nSol5a3kxjdU60%2BqkW5vNUGgOj1RtGEIPvJb4zhRHmitVW6Vllpy%2FEiYiJ4xicTmeisOza67cyLQ%2Bzs70GJkkDhOAjQdV0TStOVtCFtCEgp8H7bTdvt8U5z%2B4KPA6Idz8eP9xxnvpx68tW67tPXOOX5ipseitgFu327rd7s848OEp%2B0nVItoQv%2FZ&logoColor=white"></a>
-    <a href="https://www.youtube.com/"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
-    <a href="https://openai.com/chatgpt/"><img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"></a>
-    <a href="https://stackoverflow.co/"><img alt="StackOverFlow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-    <a href="https://www.kaggle.com/"><img alt="kaggle" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></a>
-    <a href="https://www.geeksforgeeks.org/"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
-</p>
-
-
-### 🖥️ Softwares and Tools
-
-<p>
-    <a href="#"><img img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/></a>
-    <a href="https://en.wikipedia.org/wiki/Ubuntu"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
-  <a href="#"><img img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
-    <a href="https://openai.com/chatgpt"><img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"></a>
-    <a href="https://www.anaconda.com/"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
-    <a href="https://jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
-    <a href="https://www.jetbrains.com/pycharm/"><img alt="Pycharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"></a>
-    <a href="https://www.canva.com/"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"></a>
-</p>
